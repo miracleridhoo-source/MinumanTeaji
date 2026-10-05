@@ -1,0 +1,5 @@
+081313131313|feren|2|2|false|false|false
+089090909090|reza|1|3|false|false|false
+081111111111|icel|1|12|true|false|false
+089999999999|via|1|3|false|false|false
+081111111|Mira|1|1|false|false|false
