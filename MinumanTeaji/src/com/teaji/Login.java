@@ -3,7 +3,7 @@ package com.teaji;
 /*
 Login.java merupakan interface yang mendefinisikan metode untuk proses login dan pendaftaran pengguna. 
 Interface ini menyediakan kontrak bagi kelas yang mengimplementasikannya 
-untuk menyediakan fungsionalitas signUp() dan signIn().
+untuk menyediakan fungsional signUp() dan signIn().
 */
 // Library java untuk membaca input dari pengguna
 import java.util.Scanner;
